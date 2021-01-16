@@ -3,7 +3,7 @@ function listOfNames(arrayOfPeople) {
 }
 
 let people = [
-  { name: "Chris", job: "Teacher" },
+  { name: "Meedexa", job: "Teacher" },
   { name: "Joanna", job: "Student" },
   { name: "Boris", job: "Prime Minister" },
 ];
